@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-290eug.indocuansite.space/sitemap.xml
